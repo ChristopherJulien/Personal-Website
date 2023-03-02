@@ -40,7 +40,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Robotics Masters Student
+role: Robotics Masters Student Minor in Internet of Things
 highlight_name: true
 title: Christopher Julien Stocker
 first_name: Alice
