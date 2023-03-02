@@ -27,15 +27,15 @@ organizations:
     url: http://epfl.ch
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Robotics with Minor in Internet of Things
+      institution: Ecole Polytechnique Federal de Lausanne
+      year: 2018
+    - course: Fellowship with Movetia
+      institution: Vienna Institute of Technology
+      year: 2019
+    - course: BSc in Micro Engineering
+      institution: Ecole Polytechnique Federal de Lausanne
+      year: 2016
 superuser: true
 status:
   icon: ☕️
