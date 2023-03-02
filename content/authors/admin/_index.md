@@ -1,12 +1,10 @@
 ---
 title: Christopher Julien Stocker
-role: Robotics Master Student
+role: Robotics Masters Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Sotsd
 social:
   - icon: envelope
     icon_pack: fas
@@ -52,5 +50,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Christopher J. Stocker is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Christopher J. Stocker is a student pursuing a Master's degree in Robotics with a minor in Internet of Things at the Swiss Federal Institute of Technology Lausanne (EPFL) in Switzerland. He specializes in mobile robotics and has completed courses in Distributed Intelligent Systems, Legged Robots, and Applied Machine Learning. He also has a minor in Internet of Things, with courses on bioelectronics, sensors in medical instrumentation, flexible bioelectronics, and analog circuits for biochip. In addition, he founded and served as President of the Hispanic Organization of Latin American (HOLA) at EPFL. Christopher has also worked as a Robotics Engineer Intern at Pors & Rao, where he helped develop and test an open-source motor control module for their robotic animation platform. He has completed various semester laboratory projects and adjunct projects related to robotics, and has interests in drone photography, trekking, and playing tennis.
