@@ -42,7 +42,7 @@ status:
 last_name: Wu
 role: Robotics Masters Student Minor in Internet of Things
 highlight_name: true
-title: Christopher Julien Stocker
+title: CHRISTOPHER JULIEN STOCKER SALAS
 first_name: Alice
 email: ""
 ---
