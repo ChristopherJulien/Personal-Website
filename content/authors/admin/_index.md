@@ -1,12 +1,12 @@
 ---
-title: Christopher Julien Stocker
-role: Robotics Masters Student
+avatar_filename: img_2720.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Soft Robotics
   - Distributed Systems
   - Artificial Intelligence
+  - Internet of Things
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,7 +40,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Robotics Masters Student
 highlight_name: true
+title: Christopher Julien Stocker
 first_name: Alice
 email: ""
 ---
