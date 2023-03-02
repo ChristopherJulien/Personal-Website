@@ -4,33 +4,27 @@ role: Robotics Masters Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Sotsd
+  - Soft Robotics
+  - Distributed Systems
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    label: Christopher.stockersalas@epfl.ch
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ChristopherJulien
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+    label: https://www.linkedin.com/in/christopher-julien-stocker-salas-55b868129/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
   - name: Ecole Polytechnic Federal de Lausanne
+    url: http://epfl.ch
 education:
   courses:
     - course: PhD in Artificial Intelligence
